@@ -5,6 +5,8 @@ function calcTip() {
 
     let tip = 0;
 
+    // calculate the tip based on the bill
+    // bonus: add a dropdown for different percentages, 15%, 20%, 22%
 
 
 
